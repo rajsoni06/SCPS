@@ -1,1 +1,1 @@
-# SCPS
+# SCPS (Smart Car Parking System)
